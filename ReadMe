@@ -1,0 +1,14 @@
+Gobblet obblers. Drew Lockard (2024) Nayib Rahman(2024)
+https://youtu.be/N8I8cdjy7HE
+
+We ran into a few problems while making Gobblet Gobblers. One of the main ones was making it look good. 
+We wanted a nicer board and for the players colors to be different. We were unable to do so in a timely manner, looking back at it we should have done our game in
+a different coding language. We didn't because we felt most comfortable with Python. Another problem we were unable to fix was detecting who won the game correctly. 
+After some research we could not get the code to understand the difference between player 1's pieces and player 2's pieces, so it announces a winner even if it's 
+2 different players pieces.
+
+Although we did overcome some challenges. We were unsure how to create a board in python but after some research we got a pretty normal looking board. We also had to 
+research how to get the code to announce a winner even if there was 3 different sized pieces in a row. After some research we learned that we needed to use the .keys()
+function. We also struggled with the move function, we were able to get it so a player can move on top, but were unable to figure out how to move off of another piece
+correctly. Overall the biggest challenge we overcam was working in a pair for the first time while coding. We had to learn how to write off of eachother and use some 
+comments so the other person could follow.
